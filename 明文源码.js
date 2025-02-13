@@ -4,7 +4,7 @@ import { connect } from 'cloudflare:sockets';
 let userID = '3917ebbb-8ae9-41bf-a464-9c83d47a84e4';
 let proxyIP = '';
 //let sub = '';
-let subConverter = 'SUBAPI.fxxk.dedyn.io';
+let subConverter = 'api.v1.mk';
 let subConfig = "https://raw.githubusercontent.com/gtang8/ACL4SSR/master/Clash/config/ACL4SSR_Mini.ini";
 let subProtocol = 'https';
 let subEmoji = 'true';
